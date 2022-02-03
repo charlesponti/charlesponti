@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @charlesponti
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning how to not hate technology
-- 💞️ I’m looking to collaborate on projects that are motivated by progress for all over profit for some.
+- 👀 I've spent the past 8+ years buildling web-based applications in security, health care, finance, and livestreaming
+- 💞️ I’m looking to collaborate on projects that matter.
 - 📫 How to reach me: @thechaseponti
 
 <!---
