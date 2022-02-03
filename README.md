@@ -1,8 +1,8 @@
-👋 Hi, I’m @charlesponti
-🛠 I've spent the past 8+ years buildling web-based applications in security, health care, finance, and livestreaming
-💁‍♀️ I'm web application development and product management ninja
-👀 I’m looking to collaborate on projects that matter
-📫 How to reach me: @thechaseponti
+👋 Hi, I’m @charlesponti  
+🛠 I've spent the past 8+ years buildling web-based applications in security, health care, finance, and livestreaming  
+💁‍♀️ I'm web application development and product management ninja  
+👀 I’m looking to collaborate on projects that matter  
+📫 How to reach me: @thechaseponti  
 
 <!---
 charlesponti/charlesponti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
