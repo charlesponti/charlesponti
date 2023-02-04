@@ -1,4 +1,4 @@
-👋 Hi, I’m Chase  
+👋 Hi, I’m Charles  
 🛠 15+ years building software in security, health care, finance, and more  
 💁‍♀️ Engineer and Product Management Ninja  
 👀 Looking to collaborate on projects that matter  
