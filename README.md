@@ -1,7 +1,7 @@
-👋 Hi, I’m Charles  
-🛠 15+ years building software in security, health care, finance, and more  
-💁‍♀️ Engineer and Product Management Ninja  
-👀 Looking to collaborate on projects that matter  
+👋 Howdy, I’m Charles.
+
+🛠 15+ years building products people love across multiple domains, including content creation, health care, and finance.
+
 📫 How to reach me: [@thecharlesponti](https://twitter.com/thecharlesponti)
 
 <!---
